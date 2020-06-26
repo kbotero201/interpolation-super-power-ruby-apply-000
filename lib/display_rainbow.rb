@@ -1,5 +1,5 @@
 def display_rainbow(rainbow)
-  puts "Name: #{rainbow[0]}, Age: #{rainbow[1]}, Occupation: #{rainbow[2]}"
+  puts "R: #{rainbow[0]}, O: #{rainbow[1]}, Y: #{rainbow[2]}"
 end
 
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
