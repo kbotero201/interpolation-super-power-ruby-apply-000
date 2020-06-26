@@ -14,4 +14,4 @@ stefani = ["Stefani", 49, "Firefighter"]
 
 name = bob[0]
  
-puts name
+puts "#{bob[0]}"
